@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400&display=swap');
+h1 {
+    color: #28536B;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.paragraphs {
+    font-family: 'Noto Serif', serif;
+    color: #7ea8be;
+    font-size: x-large;
+    text-align: center;
+    border: 20px solid white;
+}
+
+.paragraphs2 {
+    font-family: 'Noto Serif', serif;
+    color: #c09187;
+    font-size: x-large;
+    text-align: center;
+    border: 20px solid white;
+}
+
+#nav {
+    border: 0px;
+    list-style: none;
+    margin: 5%;
+    padding: 0;
+    text-align: center;
+    background-color: #7ea8be;
+}
+
+#nav li {
+    list-style-type: none;
+    display: inline;
+    color: #f6f0ed;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#nav a {
+    display: inline-block;
+    padding: 10px;
+    color: #f6f0ed;
+    text-decoration: none;
+}
+
+.img1 {
+    display: block;
+    float: left;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    width: 30%;
+    height: 30%;
+}
+
+.img2 {
+    display: block;
+    float: right;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    width: 50%;
+    height: 40%;
+}
