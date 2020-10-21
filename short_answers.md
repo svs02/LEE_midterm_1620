@@ -62,7 +62,7 @@ ex. div ~ p {
 Yes. Because It divided by <p>
 
 ## Q10 Identify and explain two of the errors that exist in the code snippet below.
-<img src="images/cat.png">
+'''<img src="images/cat.png">'''
 ==> <img src="/images/cat.png">
 <a href="https://bcit.ca">bcit site< title="bcit" /a>
 ==> <a href="https://bcit.ca" title="bcit">bcit site</a>
